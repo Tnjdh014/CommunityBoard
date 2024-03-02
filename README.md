@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *LocalBakeries*
 
 Submitted by: **Tanjeed Hasan**
 
